@@ -38,6 +38,9 @@
 <node CREATED="1613466352063" ID="ID_1894679099" LINK="https://jupyter.org/try" MODIFIED="1613466367779" TEXT="https://jupyter.org/try"/>
 <node CREATED="1613466374871" ID="ID_1835053416" MODIFIED="1613466421180" TEXT="Interactive coding with the interpreter at any point in the program"/>
 </node>
+<node CREATED="1614322468357" ID="ID_1214119112" MODIFIED="1614322474394" POSITION="right" TEXT="Todos/Improve">
+<node CREATED="1614322488094" ID="ID_1182617313" MODIFIED="1614322535457" TEXT="Collaboration with Notebooks, jupyter, .. github tool"/>
+</node>
 <node CREATED="1613465918831" HGAP="105" ID="ID_1695297930" MODIFIED="1613543868638" POSITION="left" TEXT="Wikipedia" VSHIFT="-85">
 <node CREATED="1613476192078" ID="ID_1172439569" LINK="https://de.wikipedia.org/wiki/Python_(Programmiersprache)" MODIFIED="1613476304066" TEXT="https://de.wikipedia.org/wiki/Python_(Programmiersprache)"/>
 <node CREATED="1613476287934" ID="ID_546783662" LINK="https://en.wikipedia.org/wiki/Python_(programming_language)" MODIFIED="1613476295314" TEXT="https://en.wikipedia.org/wiki/Python_(programming_language)"/>
