@@ -1,7 +1,9 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1632753219276" ID="ID_21196563" MODIFIED="1632753859892" STYLE="fork" TEXT="TypeScript">
-<node CREATED="1632753227271" HGAP="65" ID="ID_1298577076" MODIFIED="1632753916012" POSITION="right" TEXT="from Microsoft" VSHIFT="-10"/>
+<node CREATED="1632841009297" HGAP="-6" ID="ID_42701101" MODIFIED="1632841015079" POSITION="right" TEXT="Links" VSHIFT="-83">
+<node CREATED="1632841036713" ID="ID_725128253" LINK="https://www.typescriptlang.org/" MODIFIED="1632841040849" TEXT=""/>
+</node>
 <node CREATED="1632753877134" HGAP="80" ID="ID_1829185326" MODIFIED="1632753919517" POSITION="right" TEXT="VSCode, Visual Studio Code Editor" VSHIFT="-182">
 <node CREATED="1632753893070" ID="ID_868732232" MODIFIED="1632753898775" TEXT="Editor from Microsoft"/>
 </node>
@@ -26,6 +28,7 @@
 </node>
 </node>
 </node>
+<node CREATED="1632753227271" HGAP="-6" ID="ID_1298577076" MODIFIED="1632841033966" POSITION="right" TEXT="from Microsoft" VSHIFT="22"/>
 <node CREATED="1632753472375" ID="ID_1113082754" MODIFIED="1632753493550" POSITION="left" TEXT="Classes, Interface, Modules">
 <node CREATED="1632753514484" ID="ID_69203459" MODIFIED="1632753516087" TEXT="Classes and simple inheritance super Abstract classes instanceof modules ( libraries )."/>
 </node>
