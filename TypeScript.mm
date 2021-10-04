@@ -17,6 +17,11 @@
 <node CREATED="1632753382054" ID="ID_1515183836" MODIFIED="1632753383313" POSITION="right" TEXT="const"/>
 <node CREATED="1632753407648" ID="ID_155747351" MODIFIED="1632753413762" POSITION="right" TEXT="Optional Chaining">
 <node CREATED="1632753414454" ID="ID_609401513" MODIFIED="1632753419358" TEXT="example: obj?.nestedProperty?.name"/>
+<node CREATED="1633328559589" ID="ID_1412561961" MODIFIED="1633328585595" TEXT="use attribute of an object , if available , if not null"/>
+</node>
+<node CREATED="1633328588315" ID="ID_1897868662" MODIFIED="1633328593974" POSITION="right" TEXT="Spread Operator">
+<node CREATED="1633328594492" ID="ID_664965733" LINK="https://basarat.gitbook.io/typescript/future-javascript/spread-operator" MODIFIED="1633328599284" TEXT=""/>
+<node CREATED="1633328601627" ID="ID_1708739946" MODIFIED="1633328648354" TEXT="Fill in with the elements of an array, assign remaining elements to the array"/>
 </node>
 <node CREATED="1632753736831" HGAP="64" ID="ID_888633949" MODIFIED="1632753863191" POSITION="left" TEXT="node, npm" VSHIFT="-163">
 <node CREATED="1632753761279" ID="ID_994605156" MODIFIED="1632753766183" TEXT="Semantic versioning">
@@ -28,15 +33,23 @@
 </node>
 </node>
 </node>
+<node CREATED="1632753946536" ID="ID_102165859" MODIFIED="1633328694748" POSITION="right" TEXT="Generics">
+<node CREATED="1633328697388" ID="ID_1508740049" MODIFIED="1633328711274" TEXT="Iterator, Stack ..."/>
+</node>
+<node CREATED="1633328775556" ID="ID_1239824208" MODIFIED="1633328778394" POSITION="right" TEXT="Promise">
+<node CREATED="1633328779035" ID="ID_660328637" MODIFIED="1633328788754" TEXT="Promise = fetch(...)...">
+<node CREATED="1633328790492" ID="ID_628313348" MODIFIED="1633328791464" TEXT="motivation for promises is to bring synchronous style error handling to Async / Callback style code."/>
+<node CREATED="1633328868796" ID="ID_1775769803" MODIFIED="1633328941414" TEXT="example: &#xa;fetch(&apos;http://example.com/movies.json&apos;)  &#xa;    .then(response =&gt; response.json())   &#xa;   .then(data =&gt; console.log(data));"/>
+</node>
+</node>
 <node CREATED="1632753227271" HGAP="-6" ID="ID_1298577076" MODIFIED="1632841033966" POSITION="right" TEXT="from Microsoft" VSHIFT="22"/>
 <node CREATED="1632753472375" ID="ID_1113082754" MODIFIED="1632753493550" POSITION="left" TEXT="Classes, Interface, Modules">
 <node CREATED="1632753514484" ID="ID_69203459" MODIFIED="1632753516087" TEXT="Classes and simple inheritance super Abstract classes instanceof modules ( libraries )."/>
 </node>
 <node CREATED="1632753570549" ID="ID_1660273381" MODIFIED="1632753576447" POSITION="left" TEXT="@ Annotations">
 <node CREATED="1632753577134" ID="ID_1092169764" MODIFIED="1632753578047" TEXT="Decorators in TypeScript === Annotations in java "/>
-<node CREATED="1632753583678" ID="ID_778919888" MODIFIED="1632753592549" TEXT="Class decorators: These are decorators that can be applied to a class definition Property decorators: These are decorators that can be applied to a property within a class Method decorators: These are decorators that can be applied to a method on a class Parameter decorators: These are decorators that can be applied to a parameter of a method within a class"/>
+<node CREATED="1632753583678" ID="ID_778919888" MODIFIED="1633328975974" TEXT="Class decorators: These are decorators that can be applied to a class definition &#xa;Property decorators: These are decorators that can be applied to a property within a class&#xa; Method decorators: These are decorators that can be applied to a method on a class &#xa;Parameter decorators: These are decorators that can be applied to a parameter of a method within a class"/>
 </node>
-<node CREATED="1632753946536" ID="ID_102165859" MODIFIED="1632753950790" POSITION="left" TEXT="Generics"/>
 <node CREATED="1632753951574" ID="ID_616414210" MODIFIED="1632753956006" POSITION="left" TEXT="Injection"/>
 </node>
 </map>
