@@ -40,5 +40,17 @@
 </node>
 </node>
 </node>
+<node CREATED="1632304661182" ID="ID_1835741668" LINK="https://www.youtube.com/watch?v=H-sMmxfNxBM" MODIFIED="1632304771593" POSITION="right" TEXT="Debugging">
+<node CREATED="1632304720294" ID="ID_1767972434" LINK="https://www.youtube.com/watch?v=H-sMmxfNxBM" MODIFIED="1632304727915" TEXT=""/>
+<node CREATED="1632304776176" ID="ID_1423384437" LINK="https://github.com/dieterjava/debugging-angular" MODIFIED="1632304842920" TEXT=""/>
+<node CREATED="1632401891358" ID="ID_682891346" MODIFIED="1632401900126" TEXT="Angular debugging in VSCode">
+<node CREATED="1632401900565" ID="ID_325944440" LINK="https://newbedev.com/debug-with-visual-studio-code-not-working" MODIFIED="1632401906257" TEXT=""/>
+</node>
+</node>
+<node CREATED="1632406218740" ID="ID_516644793" MODIFIED="1632406238903" POSITION="right" TEXT="DevExtreme Samples">
+<node CREATED="1632406239573" ID="ID_1182282873" MODIFIED="1632406241853" TEXT="Grid">
+<node CREATED="1632406246251" ID="ID_1744534318" LINK="https://js.devexpress.com/Demos/WidgetsGallery/Demo/DataGrid/SimpleArray/Angular/Light/" MODIFIED="1632406331921" TEXT=""/>
+</node>
+</node>
 </node>
 </map>
